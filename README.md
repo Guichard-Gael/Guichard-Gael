@@ -1,6 +1,6 @@
 ### Bienvenue sur mon profil Github 👋
 
-Vous trouverez ci-dessous la liste de mes projets **personnels** (ceux réalisé durant ma formation sont stocké en privé). :point_down:
+Vous trouverez ci-dessous la liste de mes projets **personnels** (ceux réalisés durant ma formation sont stocké en privé). :point_down:
 
 Mon projet en cours est un projet de groupe pour conclure ma formation "Développeur web". C'est un projet un peu particulier car nous avons un vrai client (un fork sera disponnible sur mon github quand la formation sera terminée).
 
